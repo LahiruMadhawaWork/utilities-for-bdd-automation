@@ -20,7 +20,7 @@
     <repository>
       <id>github</id>
       <name>GitHub Packages</name>
-      <url>https://github.com/LahiruMadhawaWork/utilities-for-bdd-automation</url>
+      <url>https://maven.pkg.github.com/LahiruMadhawaWork/utilities-for-bdd-automation</url>
     </repository>
   </distributionManagement>
 
